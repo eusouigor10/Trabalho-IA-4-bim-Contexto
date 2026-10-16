@@ -2,7 +2,7 @@
 
 ## Download
 
-Baixe o arquivo `.zip` disponibilizado na Release do projeto no GitHub e extraia seu conteúdo em uma pasta de sua preferência.
+Baixe o arquivo `.zip`.
 
 ## Configuração do ambiente
 
