@@ -2,7 +2,7 @@
 
 ## Download
 
-Baixe o arquivo `.zip` do código original para ver o pré-processamento ou o zip nas releases para somente o código jogável.
+Baixe o arquivo `.zip` do código original para ver o pré-processamento ou o `zip` nas releases para somente o código jogável.
 
 ## Configuração do ambiente
 
